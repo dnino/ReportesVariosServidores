@@ -1,0 +1,93 @@
+
+/* GRID VIEW*/
+/*  --------------------------------------------------------------  */
+
+.rounded_corners
+{
+	border: 1px solid #4B6C9E;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	overflow: hidden;
+}
+
+.panel_asignacion
+{
+    max-height: 200px;
+}
+
+.panel_secundario
+{
+    max-height: 300px;
+}
+
+.col-centered
+{
+	float: none;
+	margin: 0 auto;
+}
+
+.padding_user
+{
+	padding-top: 4px;
+	padding-bottom: 3px;
+}
+.fuente_externa {
+font-family:Calibri;
+color:#646464;
+font-size:medium;
+}
+
+
+.rounded_corners td, .rounded_corners th
+{
+	border: 1px solid #4B6C9E;
+	background-color: #F0F1F9;
+	font-family: Calibri;
+	font-size: 9pt;
+	text-align: center;
+	padding: 0.5px 5px 0.5px 5px;
+	margin: 0.5px 5px 0.5px 5px;
+}
+
+.rounded_corners th
+{
+	background-color: #4B6C9E;
+	color: #FFFFFF;
+	font-size: 11pt;
+	font-weight: bold;
+}
+
+.rounded_corners table table td
+{
+	border-style: none;
+}
+
+
+.gridview
+{
+	margin: 5px;
+	border: none;
+	background-color: #F0F1F3;
+}
+
+.gridview tr
+{
+	text-align: left;
+	border-color: #FFFFFF;
+	font-size: x-small;
+}
+
+.gridview th
+{
+	background-color: #4b6c9e;
+	color: White;
+	font-size: 12px;
+	text-align: center;
+}
+
+.gridview td
+{
+	padding: 5px;
+	margin: 5px;
+}
