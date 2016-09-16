@@ -26,11 +26,7 @@
 
 
 
-    <!-- otros
-    <script src="Scripts/jquery-1.10.2.js" type="text/javascript"></script>
-    <script src="Scripts/UtilAjaxjs.js" type="text/javascript"></script>
-    <script src="Scripts/jquery.dataTables.js" type="text/javascript"></script>--->
-
+    
     <script src="resources/Date/jquery.min.js" type="text/javascript"></script>
     <script src="resources/Date/jquery-ui.min.js" type="text/javascript"></script>
     <link href="resources/Date/jquery-ui.css" rel="stylesheet" type="text/css" />
